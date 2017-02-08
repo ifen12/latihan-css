@@ -1,0 +1,93 @@
+body{
+	margin: 0px;
+}
+
+.header{
+	margin: 0px;
+	height: 70px;
+}
+
+.judul{
+	text-align: left;
+	height: 0px;
+	margin: 0px 100px 0px 100px;
+	color: #ff6600;
+}
+
+.nav{
+	text-align: right;
+	cursor:pointer;
+}
+
+ul li{
+	color:#666666;
+	display: inline-block;
+	margin: 0px 50px 30px 0px;
+	font-size: 20px;
+}
+
+li{
+	padding: 0px 20px 0px 20px;
+}
+
+li:hover{
+	color:#ff6600 ;
+}
+
+.garis2{
+	margin: 0px 0px 0px 0px;
+	height: 2px;
+
+}
+
+.isi{
+	margin: 0px 0px 0px 100px;
+	align:center;
+}
+
+#solid{
+	width: 1000px;
+	height: 500px;
+	border-radius: 500px;
+	margin: 0px 0px 50px 30px;
+}
+
+.garis1{
+	margin: 100px 100px 10px 100px;
+}
+
+.pat{
+	text-align: center;
+	font-family: algerian;
+	color:#ffa500;
+	margin: 10px;
+}
+
+.garis{
+	margin: 10px 100px 10px 100px;
+}
+
+.footer{
+	height: 70px;
+	margin: 0px;
+	border-top: 300px solid #f0f0f0;
+	background: #78879e;
+	background-color: #141c27;
+	text-align: center;	
+}
+
+.lol{
+	margin: 30px 0px 50px 0px;
+}
+
+.lal{
+	margin: 60px 0px 50px 0px;
+}
+
+.lul{
+	margin: 10px 0px 50px 0px;
+}
+
+.lil{
+	margin: 10px 0px 50px 0px;
+}

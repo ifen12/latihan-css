@@ -1,0 +1,119 @@
+.kiwari{
+	text-align:center;
+	margin: 0px 0px 200px 0px;
+	width: 100%;
+}
+
+.isi3{
+	margin: 0px 30px 10px 0px;
+	height: 0px;
+}
+
+.box{
+	text-align: left;
+	margin: 0px 0px 0px 100px;
+	height: 0px;
+}
+
+.box3{
+	border:0px solid #000;
+	width:350px;
+	float:center;
+	margin:50px 0px 0px 0px;
+	padding:10px;
+	display: inline-block;
+	text-align: left;
+}
+
+.box1{
+	border:0px solid #000;
+	width:200px;
+	float:center;
+	margin:50px 0px 0px 0px;
+	padding: 10px;
+	display: inline-block;
+	text-align: left;
+}
+
+.box2{
+	border:0px solid #000;
+	width:200px;
+	float:center;
+	margin:50px 0px 0px 0px;
+	padding: 10px;
+	display: inline-block;
+	text-align: left;
+}
+
+
+.box4{
+	border:0px solid #000;
+	width:200px;
+	float:center;
+	margin:50px 0px 0px 0px;
+	padding: 10px;
+	display: inline-block;
+	text-align: left;	
+}
+
+.huy{
+	border-top: 8px solid #000;
+	height: 0px;
+}
+
+.dodol{
+	text-align:left;
+	font-family: arial;
+}
+
+.dodol ul{
+	display:inline-block;
+	margin:0px;
+	left: 0px;
+}
+
+.dodol ul li{
+	position:relative;
+	float:left;
+	margin:10px 0.5px 0px 0.5px;
+	color:#fff;
+	background-color:#313d50;
+	border-radius:6px;
+	box-shadow:0 -5px rgba(30,0,0,0.4) inset;
+	cursor:pointer;
+	display:block;
+	font-size:12px;
+	line-height:27px;
+	padding:0px 0px 5px 0px;
+}
+
+.dodol ul li:hover{
+	background-color:#e74c3c;
+}
+
+.dodol ul li span{
+	display:inline-block;
+	font-size:12px;
+	line-height:17px;
+	padding:0 15px;
+	
+}
+
+.wi{
+	color: #ff6600;
+	text-align: left;
+	margin: 0px 0px 0px 45px;
+
+}
+
+.ri{
+	margin: 0px 0px 50px 0px;
+	color: #ff6600;
+	text-align: left;
+}
+
+.o{
+	margin: 80px 0px 0px 0px;
+	height: 0px; 
+
+}
